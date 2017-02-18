@@ -1,0 +1,18 @@
+.wrap {
+	width: 300px;
+	margin: 20px auto;
+}
+.wrap h1 {
+	margin-bottom: 30px;
+}
+.error, .message {
+	text-align: center;
+	background-color: #ff6666;
+	padding: 10px 0;
+}
+.message {
+	background-color: #66ff66;
+}
+a.logout {
+	float: right;
+}
